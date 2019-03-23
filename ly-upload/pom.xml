@@ -28,8 +28,6 @@
             <artifactId>spring-boot-starter-logging</artifactId>
             <!--<version></version>-->
         </dependency>
-
-
     </dependencies>
 
 
